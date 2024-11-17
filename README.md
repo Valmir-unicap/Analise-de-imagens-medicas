@@ -17,6 +17,9 @@
 - Instale o torchvision
 - Instale o matplotlib
 
+#### Ambiente de execução
+- https://www.kaggle.com/code/gustavohenruique/dataset-test
+
 #### Link do modelo de IA
 - https://github.com/qubvel/segmentation_models.pytorch
 
